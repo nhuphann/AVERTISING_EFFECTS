@@ -56,10 +56,3 @@ Evaluate how advertising spending across different media channels influences sal
 - `AdSales_Model.pdf`: Full technical report and output
 - `README.md`: Project summary
 
----
-
-## 👩‍💻 Author
-
-**Su Phan**  
-B.A. Economics | Minor in Statistics & Data Science  
-University of California, Los Angeles
